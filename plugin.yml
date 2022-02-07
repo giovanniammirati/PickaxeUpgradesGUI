@@ -1,7 +1,6 @@
 name: PickaxeUpgradesGUI
 version: 1.0-T1
-author: MrCoder_
-website: fiverr.com/mrcoder_
+author: TechyBW
 main: me.mrcoder.pugui.Main
 description: Commissioned by Rexie
 api-version: 1.16
