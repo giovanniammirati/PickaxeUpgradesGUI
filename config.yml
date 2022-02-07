@@ -1,0 +1,34 @@
+# __________.__        __                          ____ ___                                 .___             
+# \______   \__| ____ |  | _______  ___  ___ ____ |    |   \______   ________________     __| _/____   ______
+# |     ___/  |/ ___\|  |/ /\__  \ \  \/  // __ \|    |   /\____ \ / ___\_  __ \__  \   / __ |/ __ \ /  ___/
+# |    |   |  \  \___|    <  / __ \_>    <\  ___/|    |  / |  |_> > /_/  >  | \// __ \_/ /_/ \  ___/ \___ \ 
+# |____|   |__|\___  >__|_ \(____  /__/\_ \\___  >______/  |   __/\___  /|__|  (____  /\____ |\___  >____  >
+#                  \/     \/     \/      \/    \/          |__|  /_____/            \/      \/    \/     \/ 
+# 
+# PickaxeUpgradesGUI by MrCoder_ 
+# See more on https://fiverr.com/mrcoder_/
+# Commission for Rexie
+#
+# Made for Paper-1.16.3-latest.jar (November 1, 2020)
+# https://yivesmirror.com/files/paper/Paper-1.16.3-latest.jar
+#
+# Required plugins:
+# - Vault (Economy API)
+# - JetsPrisonMines (Mines API)
+# - A crate/rewards plugin
+
+# Hooks
+hook-jetsprisonmines: true
+hook-vault: true
+
+# Messages
+level-lore: "&7Level: &f"
+cost-lore: "&7Cost: &f"
+max-level: "&7You already have this upgrade."
+success-upgrade: "&aUpgrade done successfully."
+failed-upgrade: "&cEnchant already at max level."
+insufficient-money: "&cInsufficient money."
+
+# Commands
+crate-cmd: "crate give %player% legend 1" # For the Key Upgrade
+
