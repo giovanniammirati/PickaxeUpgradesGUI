@@ -1,5 +1,5 @@
 # PickaxeUpgradesGUI
-Plugin di Custom Enchants con GUI dedicata, il progetto mi era stato commissionato ma alla fine il cliente è scomparso quindi non è stato mai terminato, lo rilascio qui in caso qualcuno abbia voglia di terminarlo ed utilizzarlo. Scritto in Java usando le API di SpigotMC. Alcune funzioni potrebbero essere disponibili a causa della mancanza delle altre dipendenze.
+Plugin di Custom Enchants con GUI dedicata, il progetto mi era stato commissionato ma alla fine il cliente è scomparso quindi non è stato mai terminato, lo rilascio qui in caso qualcuno abbia voglia di terminarlo ed utilizzarlo. Plugin 100% configurabile tramite il suo file config. Scritto in Java usando le API di SpigotMC. Alcune funzioni potrebbero essere disponibili a causa della mancanza delle altre dipendenze.
 
 # Requisiti
 - Un server Linux con JRE Java 16
