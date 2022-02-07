@@ -9,10 +9,10 @@ public class PUGUICmd implements Listener,CommandExecutor {
 
 	@Override
 	public boolean onCommand(CommandSender s, Command cmd, String alias, String[] args) {
-		s.sendMessage("§r");
-		s.sendMessage("§3PickaxeUpgradesGUI §bby MrCoder_ on Fiverr.");
-		s.sendMessage("§7§o(( §f§oRight click with a pickaxe to open. §7§o))§r");
-		s.sendMessage("§r");
+		s.sendMessage("Â§r");
+		s.sendMessage("Â§3PickaxeUpgradesGUI Â§bby TechyBW.");
+		s.sendMessage("Â§7Â§o(( Â§fÂ§oRight click with a pickaxe to open. Â§7Â§o))Â§r");
+		s.sendMessage("Â§r");
 		return true;
 	}
 }
